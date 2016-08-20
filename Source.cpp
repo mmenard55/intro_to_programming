@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hello my name is Mark!");
+	printf("Student Mark Menard AIE");
 	system("pause");
 	return 0;
 }
